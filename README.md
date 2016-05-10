@@ -8,5 +8,3 @@ This setup uses a nurbsSphere with a color ramp and a locator to sample the colo
 1. Instantiating the class will run the setup.
 
 3. The top node of the setup, referred to as info_node in the code will hold attributes for the __outValue__ and the __coneAngle__ of the PoseReader that work just like a classic PoseReader setup.
-
-3. Feel free to use and alter the code.
