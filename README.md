@@ -3,7 +3,7 @@
 
 This setup uses a nurbsSphere with a color ramp and a locator to sample the color at the closest point on surface to determine the outValue for the poseReader. To achieve a variable coneAngle, the ramp color value positions are made controllable through a simple node setup and an attribute driving it.
 
-[Image will follow]
+![PoseReader](/posereader.png)
 
 1. Instantiating the class will run the setup.
 
